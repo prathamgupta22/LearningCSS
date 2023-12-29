@@ -1,0 +1,15 @@
+*{
+  margin: 0;
+  padding: 0;
+  font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+#nav h1{
+  background-color: bisque;
+  text-align: center;
+}
+#outer{
+  font-size: 25px;
+}
+#inner{
+  font-size: 10px;
+}

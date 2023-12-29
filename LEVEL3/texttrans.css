@@ -1,0 +1,42 @@
+#box1 {
+  text-transform: capitalize;
+}
+
+#box2 {
+  text-transform: lowercase;
+}
+
+#box3 {
+  text-transform: uppercase;
+}
+
+#box4 {
+  text-transform: none;
+}
+
+p {
+  line-height: 20px;
+}
+
+#p1 {
+  font-size: 5px;
+}
+
+#p2 {
+  font-size: 20px;
+}
+
+#p3 {
+  font-size: 40px;
+}
+
+#p4 {
+  font-size: 100px;
+  line-height: 100px;
+}
+#ba{
+  font-weight: 100;
+}
+#bc {font-weight: 200;}
+#bb {font-weight: 400;}
+#ba {font-weight: 600;}
