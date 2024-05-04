@@ -1,0 +1,39 @@
+ * {
+   margin: 0px;
+   padding: 0px;
+ }
+
+ .block {
+   height: 100px;
+   width: 100px;
+   background-color: blue;
+   margin: 10px;
+   text-align: center;
+   display: block;
+   border: 5px solid  black;
+   border-radius: 30px;
+ }
+
+ /* inline */
+ .inline {
+   height: 100px;
+   width: 100px;
+   background-color: blue;
+   margin: 10px;
+   text-align: center;
+   display: inline;
+   border: 5px solid black;
+   border-radius: 30px;
+ }
+
+ /* inline Block */
+ .inline-block {
+   height: 100px;
+   width: 100px;
+   background-color: blue;
+   margin: 10px;
+   text-align: center;
+   display: inline-block;
+   border: 5px solid black;
+   border-radius: 30px;
+ }

@@ -1,0 +1,52 @@
+
+/* percentage */
+#first{
+  height: 200px;
+  width: 200px;
+  background-color: coral;
+  font-size: 25px;
+}
+#second{
+  background-color:blue;
+  width: 50%;
+  height: 40%;
+}
+
+/* EM */
+#em1{
+  height: 200px;
+  width: 200px;
+  background-color: aqua;
+  font-size: 25px;
+}
+
+#em2{
+  background-color: black;
+  width: 50%;
+  height: 50%;
+  font-size: 4em;
+}
+
+
+/* REM */
+#rem1 {
+  margin-top: 10px;
+  height: 200px;
+  width: 200px;
+  background-color: aqua;
+  font-size: 10px;
+}
+#rem2 {
+  background-color: black;
+  width: 50%;
+  height: 50%;
+  font-size: 4rem;
+}
+
+/* vh */
+
+.vh{
+  height: 100vh;
+  width: 100vw;
+  background-color: red;
+}

@@ -1,0 +1,25 @@
+*{
+  margin: 0px;
+  padding: 0px;
+}
+div{
+  height: 100px;
+  width: 100px;
+  background-color: aqua; 
+  text-align: center;
+  margin-top: 25px;
+}
+
+#div1{
+  position: static;
+}
+#div2{
+  position: relative;
+  top: 20px;
+  left: 90px;
+}
+#div3{
+  position: fixed;
+  top: 20px;
+  left: 90px;
+} 

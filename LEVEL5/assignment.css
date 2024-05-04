@@ -1,0 +1,22 @@
+*{
+  margin: 0px;
+  padding: 0px;
+}
+nav{
+  display: flex;
+  justify-content: space-between;
+}
+a{
+  text-decoration: none;
+}
+.first{
+  width: 100px;
+  height: 100px;
+  border-radius: 50%;
+}
+.child{
+  height: 100px;
+  width: 100px;
+  background-color: cornflowerblue;
+  display: inline-block;
+}
